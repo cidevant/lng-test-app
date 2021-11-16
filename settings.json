@@ -1,0 +1,25 @@
+{
+  "appSettings": {
+    "stage": {
+      "clearColor": "0x00000000",
+      "useImageWorker": true
+    },
+    "debug": true,
+    "autoPageFocusRestore": true
+  },
+  "platformSettings": {
+    "path": "./static",
+    "log": true,
+    "disableTransitions": false,
+    "showVersion": false,
+    "router": {
+      "backtrack": false,
+      "gcOnUnload": true,
+      "lazyCreate": true,
+      "lazyDestroy": true,
+      "reuseInstance": false,
+      "logRoute": false,
+      "updateHash": true
+    }
+  }
+}

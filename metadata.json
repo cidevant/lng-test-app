@@ -1,0 +1,6 @@
+{
+  "name": "TestApp",
+  "identifier": "com.cidevant.TestApp",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
